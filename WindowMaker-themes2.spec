@@ -1,5 +1,5 @@
 Summary:	Pack of themes for WindowMaker
-Summary(pl):	Zestaw motywów dla WindowMaker-a
+Summary(pl):	Zestaw motywów dla WindowMakera
 Name:		WindowMaker-themes-pack2
 Version:	1.0
 Release:	1
@@ -20,7 +20,7 @@ Ladybird, Llucy, Mercury Splat, Peach Frequency, Reeds, Seagull,
 Silences, Silver Circles, Time Passes, Venturi, Waves, What Dreams.
 
 %description -l pl
-Zestaw 20 motywów dla WindowMaker-a wykonanych przez jensena
+Zestaw 20 motywów dla WindowMakera wykonanych przez jensena
 <jensen@optushome.com.au>: Glitchscape, GNULinux, Gold Sun, Grassy
 Plain, Green Net, Green Understatement, Hocus Pocus, Inkblot Sunset,
 Ladybird, Llucy, Mercury Splat, Peach Frequency, Reeds, Seagull,
